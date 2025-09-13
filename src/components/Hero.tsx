@@ -1,5 +1,6 @@
 @@ .. @@
    return (
+   )
 -    <div className="relative bg-gradient-to-br from-purple-900 via-indigo-900 to-pink-900 min-h-screen flex items-center">
 +    <div className="relative bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 min-h-screen flex items-center">
        <div className="absolute inset-0 bg-black opacity-20"></div>

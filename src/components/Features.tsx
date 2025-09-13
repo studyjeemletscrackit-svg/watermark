@@ -1,5 +1,6 @@
 @@ .. @@
    return (
+   )
 -    <section id="features" className="py-20 bg-gray-800">
 +    <section id="features" className="py-20 bg-white">
        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -11,6 +12,9 @@
            {features.map((feature, index) => (
              <div
                key={index}
+)
+)
+}
 -              className="bg-gray-700 p-8 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2"
 +              className="bg-gray-50 p-8 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200"
              >

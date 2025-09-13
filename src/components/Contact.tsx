@@ -1,5 +1,6 @@
 @@ .. @@
    return (
+   )
 -    <section className="py-20 bg-gray-800">
 +    <section className="py-20 bg-white">
        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -15,6 +16,9 @@
              </h3>
              <div className="space-y-4">
                {contactInfo.map((info, index) => (
+)
+)
+}
 -                <div key={index} className="flex items-center text-gray-300">
 -                  <div className="text-pink-400 mr-4">
 +                <div key={index} className="flex items-center text-gray-600">
